@@ -1,9 +1,14 @@
 
 论文原文:https://arxiv.org/pdf/1409.1556.pdf
+
 主要参考自[csdn](https://blog.csdn.net/DreamBro/article/details/121068023)
+
 注意到vgg论文提到测试时使用1x1卷积核代替全连接
+
 pytorch 1x1卷积核代替全连接参考:https://discuss.pytorch.org/t/vgg-with-1x1-convolution/57980
+
 1x1代替全连接数学推导:https://datascience.stackexchange.com/questions/12830/how-are-1x1-convolutions-the-same-as-a-fully-connected-layer
+
 pytorch.argmax:https://blog.csdn.net/artistkeepmonkey/article/details/115067766
 
 代码中用到的数据集（直接解压到项目文件夹）下载:https://pan.baidu.com/s/1rPZzQTE00r8lnc9Ott9j2Q?pwd=n5im
